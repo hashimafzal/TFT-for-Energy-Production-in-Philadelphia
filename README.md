@@ -40,8 +40,3 @@ Navigate to the project directory and start Jupyter Notebook to explore the anal
 ```
 jupyter notebook
 ```
-
-## Contributing
-Contributions to improve the project or extend the analysis are welcome. Please follow the standard fork and pull request workflow.
-
-For questions or further information, please reach out via caleb10miller@gmail.com.
